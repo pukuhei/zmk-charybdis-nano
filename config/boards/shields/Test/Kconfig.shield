@@ -1,0 +1,5 @@
+config SHIELD_ZMKCHARYBDIS_R
+    def_bool $(shields_list_contains,zmkcharybdis_R)
+
+config SHIELD_ZMKCHARYBDIS_L
+    def_bool $(shields_list_contains,zmkcharybdis_L)

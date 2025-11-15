@@ -1,0 +1,8 @@
+file_format: "1"
+id: zmkcharybdis
+name: zmkcharybdis
+type: shield
+url: https://github.com/pukuhei/zmk-charybdis-nano.git
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
