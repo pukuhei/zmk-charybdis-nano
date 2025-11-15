@@ -1,4 +1,5 @@
 name: zmkcharybdis
 build:
+  cmake: cmake
   settings:
     board_root: config

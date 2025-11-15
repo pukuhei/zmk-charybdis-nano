@@ -1,5 +1,8 @@
 charybdis-nano　を　zmk_firmware　で動かすようにしたファームウェアです。
 
+## 偉大なる本家
+https://github.com/Bastardkb/Charybdis
+
 ## ピンアサイン
 Seeed Studio XIAO BLE（nRF52840）の各ピンは以下のように割り当てています。
 
