@@ -40,5 +40,4 @@ Seeed Studio XIAO BLE（nRF52840）の各ピンは以下のように割り当て
 
 | デバイス | 接続ピン | 備考 |
 | --- | --- | --- |
-| ロータリーエンコーダ（左手のみ） | A: D5 / B: D0 | `config/boards/shields/Test/zmkcharybdis.dtsi` |
 | トラックボール PMW3610（右手） | SPI0: SCK=P0.5, MOSI=P0.4, MISO=P0.4 / CS=P0.9 / IRQ=P0.2 | `config/boards/shields/Test/zmkcharybdis_R.overlay` |
